@@ -21,4 +21,5 @@ This project implements a Retrieval-Augmented Generation (RAG) architecture. It 
 * Session memory management for continuous, conversational user experiences.
 
 ---
-Developed with 💙 during the SDAIA training program.
+Developed during the SDAIA training program.
+https://github.com/SDAIAAcademy
